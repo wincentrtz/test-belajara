@@ -1,0 +1,12 @@
+.card-summary-block{
+    max-width: 20%;
+}
+
+.card-summary-content{
+    display:flex;
+    justify-content: space-between;
+}
+
+.card-summary-footer{
+    text-align: center;
+}
